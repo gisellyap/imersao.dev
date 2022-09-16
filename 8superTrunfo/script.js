@@ -3,7 +3,7 @@ var carta1= {
     atributos:{
         ataque: 9,
         defesa: 5,
-        reviravolta: 8,
+        magia: 8,
     }
 }
 var carta2= {
@@ -11,7 +11,7 @@ var carta2= {
     atributos:{
         ataque: 7,
         defesa: 10,
-        reviravolta: 6,
+        magia: 6,
     }
 }
 var carta3= {
@@ -19,7 +19,7 @@ var carta3= {
     atributos:{
         ataque: 10,
         defesa: 5,
-        reviravolta: 9,
+        magia: 9,
     }
 }
 
